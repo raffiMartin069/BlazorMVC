@@ -17,10 +17,15 @@
 
   <ItemGroup>
     <Folder Include="Models\Entities\" />
+    <Folder Include="DTO\" />
+    <Folder Include="Api\" />
     <Folder Include="Utilities\" />
-    <Folder Include="ViewModel\" />
+    <Folder Include="Service\" />
+    <Folder Include="Repository\" />
+    <Folder Include="Utilities\" />
     <Folder Include="Repository\" />
     <Folder Include="Service\" />
+    <Folder Include="ViewModel\" />
   </ItemGroup>
 
 </Project>
